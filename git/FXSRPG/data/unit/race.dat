@@ -1,0 +1,43 @@
+{
+  "data" : {
+    "障害物" : {
+      "@type" : "Race",
+      "id" : "障害物",
+      "name" : "障害物",
+      "hp_up" : 10.0,
+      "mp_up" : 0.0,
+      "attack_up" : 0.0,
+      "magic_attack_up" : 0.0,
+      "defense_up" : 0.0,
+      "magic_defense_up" : 0.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 1.0
+    },
+    "動物" : {
+      "@type" : "Race",
+      "id" : "動物",
+      "name" : "動物",
+      "hp_up" : 5.0,
+      "mp_up" : 1.0,
+      "attack_up" : 7.0,
+      "magic_attack_up" : 4.0,
+      "defense_up" : 1.0,
+      "magic_defense_up" : 1.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 5.3
+    },
+    "人間" : {
+      "@type" : "Race",
+      "id" : "人間",
+      "name" : "人間",
+      "hp_up" : 5.0,
+      "mp_up" : 5.0,
+      "attack_up" : 3.0,
+      "magic_attack_up" : 3.0,
+      "defense_up" : 3.0,
+      "magic_defense_up" : 3.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 5.1
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data" : {
+    "草原" : {
+      "@type" : "MapChip",
+      "id" : "草原",
+      "move_cost" : 1,
+      "movable" : true,
+      "image_name" : "Plain.png",
+      "name" : "草原"
+    },
+    "深場" : {
+      "@type" : "MapChip",
+      "id" : "深場",
+      "move_cost" : 5,
+      "movable" : true,
+      "image_name" : "DeepWater.png",
+      "name" : "深場"
+    },
+    "浅瀬" : {
+      "@type" : "MapChip",
+      "id" : "浅瀬",
+      "move_cost" : 3,
+      "movable" : true,
+      "image_name" : "Water.png",
+      "name" : "浅瀬"
+    },
+    "森" : {
+      "@type" : "MapChip",
+      "id" : "森",
+      "move_cost" : 3,
+      "movable" : true,
+      "image_name" : "Forest.png",
+      "name" : "森"
+    },
+    "山" : {
+      "@type" : "MapChip",
+      "id" : "山",
+      "move_cost" : 5,
+      "movable" : true,
+      "image_name" : "Mountain.png",
+      "name" : "山"
+    },
+    "壁" : {
+      "@type" : "MapChip",
+      "id" : "壁",
+      "move_cost" : 1,
+      "movable" : false,
+      "image_name" : "kabe.png",
+      "name" : "壁"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.271" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <GridPane layoutX="-252.0" layoutY="71.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="150.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="120.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="20.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="150.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="80.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="20.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <Slider id="hp" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.rowIndex="1" />
+            <Slider id="attack" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.rowIndex="2" />
+            <Slider id="defense" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.rowIndex="3" />
+            <Slider id="exp_rate" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.rowIndex="4" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="HP：" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="攻撃力：" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="防御力：" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="必要経験値上昇率：" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <Text id="hp_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+            <Text id="attack_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+            <Text id="defense_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+            <Text id="exp_rate_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+            <Slider id="mp" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+            <Slider id="magic_attack" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+            <Slider id="magic_defense" blockIncrement="0.1" majorTickUnit="0.1" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" prefWidth="150.0" snapToTicks="true" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="MP：" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="魔力：" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="魔防：" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+            <Text id="mp_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+            <Text id="magic_attack_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+            <Text id="magic_defense_value" strokeType="OUTSIDE" strokeWidth="0.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="LVUP上昇値" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="\%" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+         </children>
+      </GridPane>
+   </children>
+</fx:root>

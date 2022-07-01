@@ -1,0 +1,5503 @@
+{
+  "@type" : "GameMapData",
+  "game_map" : [ [ {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 2,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 5,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 6,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 7,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 8,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 9,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 10,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 11,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 12,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 13,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 14,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 15,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 16,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 0,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 0,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 1,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 2,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 6,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 7,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 8,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 9,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 10,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 11,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 12,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 13,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 14,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 15,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 16,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 1,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 0,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 1,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 2,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 3,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 7,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 8,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 9,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬30",
+      "name" : "羽犬30",
+      "lv" : 1,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 10,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 11,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 12,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬32",
+      "name" : "羽犬32",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 13,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 14,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬33",
+      "name" : "羽犬33",
+      "lv" : 8,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 15,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 16,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 2,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 0,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 1,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 2,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 5,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 10,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬29",
+      "name" : "羽犬29",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 11,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 12,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 13,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬31",
+      "name" : "羽犬31",
+      "lv" : 5,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 14,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 15,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 3,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 0,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 1,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 2,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬28",
+      "name" : "羽犬28",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬27",
+      "name" : "羽犬27",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 15,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 22,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 4,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 0,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 1,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 2,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 3,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬26",
+      "name" : "羽犬26",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 20,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 21,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 5,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 0,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 1,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 2,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢10",
+      "name" : "土嚢10",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬25",
+      "name" : "羽犬25",
+      "lv" : 1,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 15,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 18,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 20,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 21,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 6,
+    "y" : 24,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 0,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 2,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵4",
+      "name" : "人間弓兵4",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢9",
+      "name" : "土嚢9",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 15,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 20,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 22,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 7,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 2,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 3,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 4,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 5,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵8",
+      "name" : "人間弓兵8",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢8",
+      "name" : "土嚢8",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 15,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 16,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 17,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 8,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 4,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間戦士4",
+      "name" : "人間戦士4",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 25,
+      "basic_max_mp" : 5,
+      "basic_attack" : 8,
+      "basic_defense" : 4,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵3",
+      "name" : "人間弓兵3",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢7",
+      "name" : "土嚢7",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 13,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 14,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 15,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 16,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 17,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 21,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 23,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 9,
+    "y" : 24,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間戦士3",
+      "name" : "人間戦士3",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 25,
+      "basic_max_mp" : 5,
+      "basic_attack" : 8,
+      "basic_defense" : 4,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵7",
+      "name" : "人間弓兵7",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢6",
+      "name" : "土嚢6",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 15,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 22,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 10,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 7,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間戦士2",
+      "name" : "人間戦士2",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 25,
+      "basic_max_mp" : 5,
+      "basic_attack" : 8,
+      "basic_defense" : 4,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵2",
+      "name" : "人間弓兵2",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢5",
+      "name" : "土嚢5",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 13,
+    "map_chip_id" : "深場",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 15,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 20,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 11,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 7,
+    "map_chip_id" : "森",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間戦士1",
+      "name" : "人間戦士1",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 25,
+      "basic_max_mp" : 5,
+      "basic_attack" : 8,
+      "basic_defense" : 4,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵6",
+      "name" : "人間弓兵6",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢4",
+      "name" : "土嚢4",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 15,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 16,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 17,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 18,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 19,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 12,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間戦士0",
+      "name" : "人間戦士0",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 25,
+      "basic_max_mp" : 5,
+      "basic_attack" : 8,
+      "basic_defense" : 4,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵1",
+      "name" : "人間弓兵1",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢3",
+      "name" : "土嚢3",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 14,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬0",
+      "name" : "羽犬0",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 13,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵5",
+      "name" : "人間弓兵5",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢2",
+      "name" : "土嚢2",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 12,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 13,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬1",
+      "name" : "羽犬1",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 14,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 6,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "人間弓兵0",
+      "name" : "人間弓兵0",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 20,
+      "basic_max_mp" : 5,
+      "basic_attack" : 10,
+      "basic_defense" : 2,
+      "basic_magic_attack" : 2,
+      "basic_magic_defense" : 2,
+      "basic_move" : 4,
+      "basic_attack_range" : 2,
+      "thought_type" : "CHARGE",
+      "image_name" : "kyudou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢1",
+      "name" : "土嚢1",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 10,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 11,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬2",
+      "name" : "羽犬2",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 15,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 4,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 5,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "土嚢0",
+      "name" : "土嚢0",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "障害物",
+      "race_id" : "障害物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 10,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "WAIT",
+      "image_name" : "donou.png"
+    },
+    "sortie_area" : true
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬3",
+      "name" : "羽犬3",
+      "lv" : 1,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬15",
+      "name" : "羽犬15",
+      "lv" : 5,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 16,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 4,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 5,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 9,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬4",
+      "name" : "羽犬4",
+      "lv" : 1,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬14",
+      "name" : "羽犬14",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 17,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 3,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 7,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 8,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬5",
+      "name" : "羽犬5",
+      "lv" : 1,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬13",
+      "name" : "羽犬13",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 18,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬6",
+      "name" : "羽犬6",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬12",
+      "name" : "羽犬12",
+      "lv" : 2,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬16",
+      "name" : "羽犬16",
+      "lv" : 6,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 19,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 2,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 6,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬7",
+      "name" : "羽犬7",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬11",
+      "name" : "羽犬11",
+      "lv" : 3,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬17",
+      "name" : "羽犬17",
+      "lv" : 5,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 20,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 2,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 3,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 4,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 5,
+    "map_chip_id" : "浅瀬",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬8",
+      "name" : "羽犬8",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬10",
+      "name" : "羽犬10",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬18",
+      "name" : "羽犬18",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 21,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 0,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 1,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 2,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 3,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 4,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 7,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬9",
+      "name" : "羽犬9",
+      "lv" : 5,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬19",
+      "name" : "羽犬19",
+      "lv" : 4,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬24",
+      "name" : "羽犬24",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 22,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 0,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 1,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 2,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 3,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 4,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 7,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 8,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬20",
+      "name" : "羽犬20",
+      "lv" : 5,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬23",
+      "name" : "羽犬23",
+      "lv" : 10,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 23,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ], [ {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 0,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 1,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 2,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 3,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 4,
+    "map_chip_id" : "山",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 5,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 6,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 7,
+    "map_chip_id" : "森",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 8,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 9,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 10,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬21",
+      "name" : "羽犬21",
+      "lv" : 6,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 11,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 12,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 13,
+    "map_chip_id" : "草原",
+    "unit" : {
+      "@type" : "Unit",
+      "id" : "羽犬22",
+      "name" : "羽犬22",
+      "lv" : 7,
+      "currently_exp" : 0,
+      "job_id" : "ノービス",
+      "race_id" : "動物",
+      "skill_id_list" : [ ],
+      "basic_max_hp" : 15,
+      "basic_max_mp" : 10,
+      "basic_attack" : 5,
+      "basic_defense" : 3,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 5,
+      "basic_attack_range" : 1,
+      "thought_type" : "CHARGE",
+      "image_name" : "haneinu.png"
+    },
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 14,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 15,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 16,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 17,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 18,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 19,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 20,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 21,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 22,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 23,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  }, {
+    "@type" : "Square",
+    "x" : 24,
+    "y" : 24,
+    "map_chip_id" : "草原",
+    "unit" : null,
+    "sortie_area" : false
+  } ] ],
+  "id" : "防衛線",
+  "name" : "防衛線",
+  "sortie_area_num" : 29
+}

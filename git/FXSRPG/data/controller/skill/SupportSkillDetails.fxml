@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.skill.EffectDetails?>
+<?import function.controller.skill.SkillStatusController?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="250.0" prefWidth="350.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.271" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TabPane prefHeight="246.0" prefWidth="438.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <tabs>
+            <Tab text="スキルステータス">
+               <content>
+                  <SkillStatusController fx:id="status" />
+               </content>
+            </Tab>
+            <Tab text="効果詳細">
+               <content>
+                  <EffectDetails fx:id="effect_details" />
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+   </children>
+</fx:root>

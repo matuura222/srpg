@@ -1,0 +1,43 @@
+{
+  "data" : {
+    "障害物" : {
+      "@type" : "Job",
+      "id" : "障害物",
+      "name" : "障害物",
+      "hp_up" : 10.0,
+      "mp_up" : 0.0,
+      "attack_up" : 0.0,
+      "magic_attack_up" : 0.0,
+      "defense_up" : 0.0,
+      "magic_defense_up" : 0.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 1.0
+    },
+    "戦士" : {
+      "@type" : "Job",
+      "id" : "戦士",
+      "name" : "戦士",
+      "hp_up" : 10.0,
+      "mp_up" : 1.0,
+      "attack_up" : 8.0,
+      "magic_attack_up" : 4.0,
+      "defense_up" : 0.0,
+      "magic_defense_up" : 2.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 6.1
+    },
+    "ノービス" : {
+      "@type" : "Job",
+      "id" : "ノービス",
+      "name" : "ノービス",
+      "hp_up" : 5.0,
+      "mp_up" : 5.0,
+      "attack_up" : 2.0,
+      "magic_attack_up" : 2.0,
+      "defense_up" : 2.0,
+      "magic_defense_up" : 2.0,
+      "skill_id_list" : [ ],
+      "exp_rate" : 3.8
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data" : {
+    "戦士田中" : {
+      "@type" : "Unit",
+      "id" : "戦士田中",
+      "name" : "戦士田中",
+      "lv" : 10,
+      "currently_exp" : 0,
+      "job_id" : "戦士",
+      "race_id" : "人間",
+      "skill_id_list" : [ "強撃" ],
+      "basic_max_hp" : 0,
+      "basic_max_mp" : 0,
+      "basic_attack" : 0,
+      "basic_defense" : 0,
+      "basic_magic_attack" : 0,
+      "basic_magic_defense" : 0,
+      "basic_move" : 0,
+      "basic_attack_range" : 0,
+      "thought_type" : "CHARGE",
+      "image_name" : "senshi.png"
+    }
+  }
+}

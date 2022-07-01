@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.unit.UnitSkill?>
+<?import function.controller.unit.UnitStatus?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="400.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="400.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <tabs>
+            <Tab text="ステータス">
+               <content>
+                  <UnitStatus fx:id="unit_status" />
+               </content>
+            </Tab>
+            <Tab text="スキル">
+               <content>
+                  <UnitSkill fx:id="unit_skill" />
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+      <HBox layoutY="420.0" prefHeight="40.0" prefWidth="286.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#lvUp" prefHeight="40.0" prefWidth="100.0" text="LVUP" />
+            <Button mnemonicParsing="false" onAction="#lvDown" prefHeight="40.0" prefWidth="100.0" text="LVDOWN" />
+         </children>
+      </HBox>
+   </children>
+</fx:root>

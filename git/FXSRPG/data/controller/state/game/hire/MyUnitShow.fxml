@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.state.game.sub.MyUnitList?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.layout.VBox?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="400.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox layoutX="10.0" layoutY="10.0" prefHeight="600.0" prefWidth="400.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <MyUnitList fx:id="list" prefHeight="570.0" prefWidth="400.0">
+               <children>
+                  <TextField fx:id="name" onAction="#rename" visible="false" />
+               </children></MyUnitList>
+            <Text id="text" text="訓練に必要な金額はLVUPに必要な経験値×100です。"> </Text>
+            <HBox prefHeight="30.0" prefWidth="400.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#change" prefHeight="30.0" prefWidth="134.0" text="名前変更" />
+                  <Button mnemonicParsing="false" onAction="#training" prefHeight="30.0" prefWidth="134.0" text="訓練" />
+                  <Button mnemonicParsing="false" onAction="#dismissal" prefHeight="30.0" prefWidth="134.0" text="解雇" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</fx:root>

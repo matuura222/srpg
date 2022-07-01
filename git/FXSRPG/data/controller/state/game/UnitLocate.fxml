@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.state.game.sub.MyUnitList?>
+<?import javafx.scene.SubScene?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <SplitPane dividerPositions="0.5" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <items>
+            <VBox prefHeight="600.0" prefWidth="174.0">
+               <children>
+                  <MyUnitList fx:id="unit_list" prefHeight="580.0" />
+                  <HBox prefHeight="25.0" prefWidth="392.0">
+                     <children>
+                        <Button id="GameBattle" mnemonicParsing="false" onAction="#start" prefWidth="200.0" text="出撃" />
+                        <Button mnemonicParsing="false" onAction="#initUnitLocate" prefWidth="200.0" text="再配置" />
+                        <Button id="StageSelect" mnemonicParsing="false" onAction="#changeScene" prefWidth="200.0" text="ステージ選択" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <SubScene fx:id="game_map_scene" fill="BLACK" height="600.0" onMouseEntered="#mouseEntered" onMouseExited="#mouseExited" onMouseMoved="#mapMove" onMousePressed="#selectSquare" width="600.0">
+               <root>
+                  <Region />
+               </root>
+            </SubScene>
+         </items>
+      </SplitPane>
+   </children>
+</fx:root>

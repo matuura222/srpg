@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.state.edit.skill.SkillStatusEditController?>
+<?import function.controller.unit.UnitDetailsController?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TabPane layoutX="10.0" layoutY="10.0" prefHeight="347.0" prefWidth="471.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <tabs>
+            <Tab text="ステータス">
+               <content>
+                  <SkillStatusEditController fx:id="status" />
+               </content>
+            </Tab>
+            <Tab text="召喚ユニット">
+               <content>
+                  <HBox prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <ListView fx:id="summon_unit_list" onMouseClicked="#summonUnitShow" prefHeight="371.0" prefWidth="200.0" />
+                        <UnitDetailsController fx:id="summon_unit_details" prefHeight="400.0" prefWidth="400.0" />
+                     </children>
+                  </HBox>
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+   </children>
+</fx:root>

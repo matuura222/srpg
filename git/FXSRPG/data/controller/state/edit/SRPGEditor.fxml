@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="950.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.281" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox layoutX="10.0" layoutY="10.0" prefHeight="600.0" prefWidth="900.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <MenuBar VBox.vgrow="NEVER">
+               <menus>
+                  <Menu mnemonicParsing="false" text="File">
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#save" text="セーブ" />
+                        <MenuItem mnemonicParsing="false" onAction="#quit" text="終了" />
+                        <MenuItem id="EditTitle" mnemonicParsing="false" onAction="#changeScene" text="戻る" />
+                     </items>
+                  </Menu>
+                  <Menu mnemonicParsing="false" text="Edit">
+                     <items>
+                        <MenuItem mnemonicParsing="false" text="Undo" />
+                        <MenuItem mnemonicParsing="false" text="Redo" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                        <MenuItem mnemonicParsing="false" text="Cut" />
+                        <MenuItem mnemonicParsing="false" text="Copy" />
+                        <MenuItem mnemonicParsing="false" text="Paste" />
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                        <MenuItem mnemonicParsing="false" text="Select All" />
+                        <MenuItem mnemonicParsing="false" text="Unselect All" />
+                     </items>
+                  </Menu>
+                  <Menu mnemonicParsing="false" text="Help">
+                     <items>
+                        <MenuItem mnemonicParsing="false" text="About MyHelloApp" />
+                     </items>
+                  </Menu>
+               </menus>
+            </MenuBar>
+            <TextArea fx:id="message_area" editable="false" prefHeight="0.0" prefWidth="950.0" />
+            <SplitPane dividerPositions="0.2" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+               <items>
+                  <AnchorPane id="Content" minHeight="-1.0" minWidth="-1.0" prefHeight="551.0" prefWidth="220.0">
+                     <children>
+                        <TabPane fx:id="edit_tab_pane" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <tabs>
+                              <Tab text="ユニット">
+                                 <content>
+                                    <ListView fx:id="unit_list" editable="true" onMouseClicked="#gameNodeEdit" prefHeight="200.0" prefWidth="200.0" />
+                                 </content>
+                              </Tab>
+                              <Tab text="職業">
+                                 <content>
+                                    <ListView fx:id="job_list" onMouseClicked="#gameNodeEdit" prefHeight="200.0" prefWidth="200.0" />
+                                 </content>
+                              </Tab>
+                              <Tab text="種族">
+                                 <content>
+                                    <ListView fx:id="race_list" onMouseClicked="#gameNodeEdit" prefHeight="200.0" prefWidth="200.0" />
+                                 </content>
+                              </Tab>
+                              <Tab text="スキル">
+                                 <content>
+                                    <ListView fx:id="skill_list" onMouseClicked="#gameNodeEdit" prefHeight="200.0" prefWidth="200.0" />
+                                 </content>
+                              </Tab>
+                              <Tab text="マップチップ">
+                                 <content>
+                                    <ListView fx:id="map_chip_list" onMouseClicked="#gameNodeEdit" prefHeight="200.0" prefWidth="200.0" />
+                                 </content>
+                              </Tab>
+                           </tabs>
+                        </TabPane>
+                     </children>
+                  </AnchorPane>
+                  <ScrollPane prefHeight="-1.0" prefWidth="-1.0">
+                     <content>
+                        <AnchorPane fx:id="edit_pane" prefHeight="563.0" prefWidth="754.0">
+                           <children>
+                              <Pane prefHeight="567.0" prefWidth="795.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="-125.0" AnchorPane.topAnchor="0.0" />
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </ScrollPane>
+               </items>
+            </SplitPane>
+            <HBox id="HBox" alignment="CENTER_LEFT" spacing="5.0" VBox.vgrow="NEVER">
+               <children>
+                  <Pane prefHeight="-1.0" prefWidth="-1.0" HBox.hgrow="ALWAYS" />
+               </children>
+               <padding>
+                  <Insets bottom="3.0" left="3.0" right="3.0" top="3.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</fx:root>

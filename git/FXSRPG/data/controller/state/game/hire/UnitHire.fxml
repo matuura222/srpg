@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import function.controller.state.edit.skill.HaveSkillController?>
+<?import function.controller.state.edit.NumberTextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" type="AnchorPane" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <StackPane id="test" layoutX="229.0" layoutY="119.0" prefHeight="150.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <HBox prefHeight="25.0" prefWidth="600.0">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="所持金：">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="money" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text=" 最大雇用費用：">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="hire_cost" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text=" 探索費用：">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="search_cost" strokeType="OUTSIDE" strokeWidth="0.0" text="100">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Text>
+
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="225.0" prefWidth="600.0">
+                     <children>
+                        <GridPane prefHeight="280.0" prefWidth="600.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="200.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="200.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="50.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="1">
+                                 <children>
+                                    <Slider id="min_hp" blockIncrement="1.0" majorTickUnit="1.0" max="500.0" min="1.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="1.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低HP：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="2">
+                                 <children>
+                                    <Slider id="min_mp" blockIncrement="1.0" majorTickUnit="1.0" max="500.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低MP：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="3">
+                                 <children>
+                                    <Slider id="min_attack" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低攻撃力：" />
+                                 </children>
+                              </HBox>
+                              <ChoiceBox fx:id="job_box" prefWidth="150.0" />
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="4">
+                                 <children>
+                                    <Slider id="min_defense" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低防御力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="5">
+                                 <children>
+                                    <Slider id="min_magic_attack" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低魔力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="6">
+                                 <children>
+                                    <Slider id="min_magic_defense" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低魔防：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="7">
+                                 <children>
+                                    <Slider id="min_move" blockIncrement="1.0" majorTickUnit="1.0" max="10.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低移動力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.rowIndex="8">
+                                 <children>
+                                    <Slider id="min_attack_range" blockIncrement="1.0" majorTickUnit="1.0" max="10.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最低攻撃範囲：" />
+                                 </children>
+                              </HBox>
+                              <ChoiceBox fx:id="race_box" prefWidth="150.0" GridPane.columnIndex="2" />
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                 <children>
+                                    <Slider id="max_hp" blockIncrement="1.0" majorTickUnit="1.0" max="500.0" min="1.0" minorTickCount="0" onKeyPressed="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="20.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大HP：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                                 <children>
+                                    <Slider id="max_mp" blockIncrement="1.0" majorTickUnit="1.0" max="500.0" minorTickCount="0" onKeyPressed="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="20.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大MP：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                                 <children>
+                                    <Slider id="max_attack" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="10.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大攻撃力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
+                                 <children>
+                                    <Slider id="max_defense" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="10.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大防御力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="5">
+                                 <children>
+                                    <Slider id="max_magic_attack" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="10.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大魔力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="6">
+                                 <children>
+                                    <Slider id="max_magic_defense" blockIncrement="1.0" majorTickUnit="1.0" max="255.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="10.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大魔防：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="7">
+                                 <children>
+                                    <Slider id="max_move" blockIncrement="1.0" majorTickUnit="1.0" max="10.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" value="5.0" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大移動力：" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER_LEFT" prefHeight="30.0" prefWidth="300.0" GridPane.columnIndex="2" GridPane.rowIndex="8">
+                                 <children>
+                                    <Slider id="max_attack_range" blockIncrement="1.0" majorTickUnit="1.0" max="10.0" minorTickCount="0" onKeyPressed="#valueChange" onKeyReleased="#valueChange" onMouseClicked="#valueChange" onMouseDragged="#valueChange" snapToTicks="true" />
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="最大攻撃範囲：" />
+                                 </children>
+                              </HBox>
+                              <NumberTextField id="min_hp_value" text="1" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <NumberTextField id="min_mp_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <NumberTextField id="min_attack_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <NumberTextField id="min_defense_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                              <NumberTextField id="min_magic_attack_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                              <NumberTextField id="min_magic_defense_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+                              <NumberTextField id="min_move_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+                              <NumberTextField id="min_attack_range_value" text="0" onAction="#inputValue" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+                              <NumberTextField id="max_hp_value" text="20" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                              <NumberTextField id="max_mp_value" text="20" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                              <NumberTextField id="max_attack_value" text="10" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                              <NumberTextField id="max_defense_value" text="10" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                              <NumberTextField id="max_magic_attack_value" text="10" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+                              <NumberTextField id="max_magic_defense_value" text="10" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+                              <NumberTextField id="max_move_value" text="5" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+                              <NumberTextField id="max_attack_range_value" text="0" onAction="#inputValue" GridPane.columnIndex="3" GridPane.rowIndex="8" />
+                               </children>
+                        </GridPane>
+                     </children>
+                  </HBox>
+                  <HaveSkillController fx:id="have_skill" prefHeight="300.0" prefWidth="600.0" />
+                  <HBox alignment="BOTTOM_LEFT" prefHeight="50.0" prefWidth="600.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#explore" prefHeight="50.0" prefWidth="300.0" text="人材探索" />
+                        <Button mnemonicParsing="false" onAction="#myUnitShow" prefHeight="50.0" prefWidth="300.0" text="自軍ユニット" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <Text fx:id="message" strokeType="OUTSIDE" strokeWidth="0.0">
+               <font>
+                  <Font size="34.0" />
+               </font>
+            </Text>
+         </children>
+      </StackPane>
+   </children>
+</fx:root>
